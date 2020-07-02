@@ -5,7 +5,7 @@
         "Nombre": "Santiago",
         "Edad": 25,
         "Trabajo": true,
-        "Nacimiento": "1995,05,21"
+        "Nacimiento": "1995-05-21"
     },
     {
         "Nombre": "Pablo",
