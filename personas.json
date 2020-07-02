@@ -28,6 +28,7 @@
     {
         "Nombre": "Alejo",
         "Trabajo": false,
+        "Edad": 27,
         "Nacimiento": "1993-07-08"
     }]
 }
